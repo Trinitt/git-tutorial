@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('version88');
+console.log('version in another folder');

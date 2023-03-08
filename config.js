@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version88');
+console.log('cool right');
